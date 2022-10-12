@@ -44,7 +44,7 @@ export default function Homepage({ user, cards, error, light }) {
                             <div style={{ marginTop: 8, marginLeft: 12, display: 'block' }}>
                                Hi 👋 Welcome to my Portfolio Website!<br></br>
                                I am a German Hobby <strong>Programmer</strong> since 2018. My Name is <strong>Tayron</strong> and i am <strong>16</strong> years old!<br></br>
-                               I am currently Studying at a "Berufsschule". My Goal is to work as a IT Engineer. 👨‍💻<br></br><br></br><br></br>
+                               I am currently Studying at a "Berufsschule" specialized in the Economy Field. My Goal is to work as a IT Engineer. 👨‍💻<br></br><br></br><br></br>
                             In my Freetime i listen to <strong>Music and Program</strong> stuff like this Website, Discord Bots, and more.<img src='https://cdn.discordapp.com/emojis/987344200146251808.gif?size=20&quality=lossless' style={{ position: 'relative', top: 5 }} draggable={false} /><br></br>
                             </div>
                             <br />
